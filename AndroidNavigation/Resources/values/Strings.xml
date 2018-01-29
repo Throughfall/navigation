@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-  <string name="app_name">AndroidNavigation</string>
+  <string name="ApplicationName">Android Navigation</string>
+  <string name="read_data">Daten lesen</string>
+  <string name="write_data">Daten schreiben</string>
 </resources>
